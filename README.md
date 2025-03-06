@@ -20,7 +20,7 @@ Here’s a preview of the **Hospital Billing Dashboard**:
 - Stored uploaded data in **Google Cloud Storage (GCS)**.
 
 ### Automation
-- Used **Google Cloud Functions (Python)** to trigger **data processing** when new files are uploaded.
+- Implemented **Google Cloud Functions** to trigger data processing when new files are uploaded.
 
 ### Data Processing
 - Created a **master table in BigQuery**, consolidating data from multiple sources.
