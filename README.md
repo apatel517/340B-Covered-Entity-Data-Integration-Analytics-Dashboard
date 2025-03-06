@@ -47,7 +47,6 @@ Here’s a preview of the **Hospital Billing Dashboard**:
 ### 2. **Filtering Options**
 - **Date Range Selector**: Allows users to filter data within a specific date range.
 - **Pharmacy Selection**: Filters data based on pharmacies such as CVS, Osco, Walgreens, and Walmart.
-- **General Filter Dropdown**: Provides additional filtering options across various parameters.
 
 ### 3. **Savings Breakdown**
 - **Total Savings by Department**:
