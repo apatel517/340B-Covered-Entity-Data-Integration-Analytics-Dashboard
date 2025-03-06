@@ -8,7 +8,7 @@ This project streamlines **340B program data ingestion, storage, and analytics**
 ## 📸 Dashboard Preview  
 Here’s a preview of the **Hospital Billing Dashboard**:  
 
-![340B-Covered-Entity-Data-Integration-Analytics-Dashboard](Screenshot%202025-01-30%20194439.png)
+![340B-Covered-Entity-Data-Integration-Analytics-Dashboard](Screenshot.png)
 ## Key Components
 
 ### Data Ingestion
