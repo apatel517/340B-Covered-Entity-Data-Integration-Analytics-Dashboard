@@ -3,6 +3,12 @@
 ## Overview
 This project streamlines **340B program data ingestion, storage, and analytics** for a hospital by building an **automated data pipeline** from contracted pharmacies to a **Power BI dashboard** for stakeholders.
 
+## Note: The data used in this dashboard is synthetic and was generated using Python libraries like Pandas and Faker to simulate real-world scenarios.
+
+## 📸 Dashboard Preview  
+Here’s a preview of the **Hospital Billing Dashboard**:  
+
+![340B-Covered-Entity-Data-Integration-Analytics-Dashboard](Screenshot%202025-01-30%20194439.png)
 ## Key Components
 
 ### Data Ingestion
