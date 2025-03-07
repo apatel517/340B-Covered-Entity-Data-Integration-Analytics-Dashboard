@@ -31,7 +31,7 @@ Here’s a preview of the **Hospital Billing Dashboard**:
 ## Technologies Used
 - **Programming Language:** Python
 - **Web Framework:** Flask
-- **Cloud Services:** Google Cloud Storage (GCS), **Google Cloud Functions (Python), BigQuery**
+- **Cloud Services:** Google Cloud Storage (GCS), **Google Cloud Functions, BigQuery**
 - **BI Tool:** Power BI
 - **Database & Querying:** BigQuery SQL
 ## Key Features
