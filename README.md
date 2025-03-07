@@ -70,7 +70,7 @@ Here’s a preview of the **Hospital Billing Dashboard**:
 ### 5. **Trends & Utilization Insights**
 - **Total Claims, Eligible Claims, & Savings per Quarter**: Visualizes quarterly trends, showing fluctuations in claims and savings.
 - **340B Claims vs. Total Claims by Department**: Displays the percentage distribution of claims across different departments.
-- **340B Utilization Rate by Month**: Shows monthly utilization trends, with the peak in October at 53%.
+- **340B Utilization Rate by Month**: Shows monthly utilization trends, with the peak in November at 53%.
 ## Outcome
 - **Automated data ingestion and processing**, reducing manual intervention.
 - **Improved data accessibility and reporting** for hospital stakeholders.
